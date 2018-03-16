@@ -4,3 +4,8 @@ leader_election/Makefile.osx
 mis/.DS_Store
 mis/Makefile.osx
 mis/ring.o
+6-3_coloring/.DS_Store
+6-3_coloring/Makefile.osx
+6-3_coloring/ring.o
+6-3_coloring/a.out
+
