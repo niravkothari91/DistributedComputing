@@ -1,4 +1,6 @@
 leader_election/.DS_Store
 leader_election/screenshots
 leader_election/Makefile.osx
-leader_election/ring
+mis/.DS_Store
+mis/Makefile.osx
+mis/ring.o
