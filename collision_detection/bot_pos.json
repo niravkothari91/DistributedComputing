@@ -1,0 +1,34 @@
+{
+  "bot_states": [
+    {
+      "ID": 0,
+      "direction": 0,
+      "state": {},
+      "x_position": -50.0,
+      "y_position": -150.0
+    },
+    {
+      "ID": 1,
+      "direction": 3.140,
+      "state": {},
+      "x_position": 80.0,
+      "y_position": 150.0
+      
+    },
+    {
+      "ID": 2,
+      "direction": 1.57,
+      "state": {},
+      "x_position": -150.0,
+      "y_position": 50.0
+    },
+    {
+      "ID": 3,
+      "direction": 4.71,
+      "state": {},
+      "x_position": 100.0,
+      "y_position": -50.0
+    }
+  ],
+  "ticks": 18
+}
